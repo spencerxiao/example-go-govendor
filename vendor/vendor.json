@@ -69,29 +69,47 @@
 			"revisionTime": "2017-01-22T15:54:24Z"
 		},
 		{
-			"checksumSHA1": "JWyVxkLtx2Dw4C2jNfQJV2C3YRA=",
+			"checksumSHA1": "T9XzMEeHpfGDrVFc8Q1MLrJXzxw=",
 			"path": "github.com/square/go-jose",
-			"revision": "7f0dd807d3f3d73bb536898cb7980ddf638ce69a",
-			"revisionTime": "2016-08-31T18:22:30Z"
+			"revision": "d5683d954d08cd430460c651e2a2fff4f3b39f86",
+			"revisionTime": "2017-02-24T23:56:57Z",
+			"version": "v2.1.0",
+			"versionExact": "v2.1.0"
 		},
 		{
-			"checksumSHA1": "JJd0NOYIZQQc8WwqhfW9OwPvGa4=",
+			"checksumSHA1": "3ZnGXnGyQ8NyD8mttaQgwNgMyJY=",
 			"path": "github.com/square/go-jose/cipher",
-			"revision": "7f0dd807d3f3d73bb536898cb7980ddf638ce69a",
-			"revisionTime": "2016-08-31T18:22:30Z"
+			"revision": "d5683d954d08cd430460c651e2a2fff4f3b39f86",
+			"revisionTime": "2017-02-24T23:56:57Z",
+			"version": "v2.1.0",
+			"versionExact": "v2.1.0"
 		},
 		{
 			"checksumSHA1": "MjFMyZLaQYCfJyi3O0ynKNSmneA=",
 			"path": "github.com/square/go-jose/json",
-			"revision": "7f0dd807d3f3d73bb536898cb7980ddf638ce69a",
-			"revisionTime": "2016-08-31T18:22:30Z"
+			"revision": "d5683d954d08cd430460c651e2a2fff4f3b39f86",
+			"revisionTime": "2017-02-24T23:56:57Z",
+			"version": "v2.1.0",
+			"versionExact": "v2.1.0"
 		},
 		{
 			"checksumSHA1": "uTQtOqR0ePMMcvuvAIksiIZxhqU=",
 			"path": "golang.org/x/sys/unix",
 			"revision": "7a6e5648d140666db5d920909e082ca00a87ba2c",
 			"revisionTime": "2017-02-01T04:15:14Z"
+		},
+		{
+			"checksumSHA1": "Ho5sr2GbiR8S35IRni7vC54d5Js=",
+			"path": "gopkg.in/square/go-jose.v2/cipher",
+			"revision": "730df5f748271903322feb182be83b43ebbbe27d",
+			"revisionTime": "2019-04-10T21:58:30Z"
+		},
+		{
+			"checksumSHA1": "JFun0lWY9eqd80Js2iWsehu1gc4=",
+			"path": "gopkg.in/square/go-jose.v2/json",
+			"revision": "730df5f748271903322feb182be83b43ebbbe27d",
+			"revisionTime": "2019-04-10T21:58:30Z"
 		}
 	],
-	"rootPath": "github.com/srcclr/example-go-govendor"
+	"rootPath": "github.com/spencerxiao/example-go-govendor"
 }
